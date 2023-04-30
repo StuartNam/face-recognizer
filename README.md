@@ -1,8 +1,8 @@
 # About this project
-In this small project, I built a face recognizer model on PyTorch.
+In this small project, I built a Face Recognizer on PyTorch and OpenCV.
 
 # Facial Recognition problem
-  Facial recognition is a well-known task in Computer Vision, but it is not a trivial problem. The mission is to identify the identity of the person in the given image. Its result can be used in many application, for example, FaceID for smart phones, security and surveillance for private house or organization, automatically checking attendance for school, etc.
+  Facial Recognition is a well-known task in Computer Vision, but it is not a trivial problem. The mission is to identify the identity of the person in the given image. Its result can be used in many application, for example, FaceID for smart phones, security and surveillance for private house or organization, automatically checking attendance for school, etc.\
   Facial recognition is a complicated process, but in an abstract view, it consists of two main steps:
   - Facial detection: Given an image, the process locates the faces with in that image.
   - Facial recognition: Given the face image, the process identify the person in that image.
@@ -19,6 +19,8 @@ This feature extractor uses convolutional-based architecture (which is specializ
 Final step on Facial recognizing, the Feature classifier classify the identity of the given image based on the Feature vectors. It can be modeled as a fully-connected Neural Network with Softmax layer at the output for identify the given face image from the Feature vectors.
 
 # Data collection
-For training the model, I collect the data through the camera of the PC device. Each of the collected data will be pre-processed through a fixed pipeline and store in the data folder for future training.
+For training the model, I collect the data through the camera of the PC device. Each of the collected data will be pre-processed through a fixed pipeline and store in the data folder for future training.\
+\
 
+Having fun!
 Nam Ha

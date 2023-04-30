@@ -20,7 +20,6 @@ Final step on Facial recognizing, the Feature classifier classify the identity o
 
 # Data collection
 For training the model, I collect the data through the camera of the PC device. Each of the collected data will be pre-processed through a fixed pipeline and store in the data folder for future training.\
-\
 
-Having fun!
+Have fun!\
 Nam Ha

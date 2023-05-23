@@ -17,7 +17,7 @@ NUM_EPOCHS = 100
 BATCH_SIZE = 128
 lrate = 0.0009
 
-stop_avg_loss = 1e-8
+stop_avg_loss = 1e-7
 
 # DATA COLLECT
 

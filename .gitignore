@@ -1,4 +1,7 @@
 __pycache__/
+model/__pycache__/
+utils/__pycache__/
+
 data/
 model/class2id.csv
 model/model.pt
